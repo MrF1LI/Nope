@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btu_color">#FD017D</color>
+    <color name="burger_color">#343030</color>
+    <color name="title_color">#FD017D</color>
+    <color name="text_color">#3F3B3B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="window_background">#FFFFFFFF</color>
+    <color name="status_bar_background">#FFFFFF</color>
+    <color name="navigation_background">#303030</color>
+    <color name="button_background">#343030</color>
+    <color name="avatar_color">#D0303030</color>
+    <color name="gray">#303030</color>
+</resources>
